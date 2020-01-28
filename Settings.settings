@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="NESTDataBaseTool" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="HostOrigem" Type="System.String" Scope="User">
+      <Value Profile="(Default)">201.20.7.33</Value>
+    </Setting>
+    <Setting Name="HostDestino" Type="System.String" Scope="User">
+      <Value Profile="(Default)">201.20.7.33</Value>
+    </Setting>
+    <Setting Name="UsuarioOrigem" Type="System.String" Scope="User">
+      <Value Profile="(Default)">postgres</Value>
+    </Setting>
+    <Setting Name="UsuarioDestino" Type="System.String" Scope="User">
+      <Value Profile="(Default)">postgres</Value>
+    </Setting>
+    <Setting Name="SenhaOrigem" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TjYz3m</Value>
+    </Setting>
+    <Setting Name="SenhaDestino" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TjYz3m</Value>
+    </Setting>
+    <Setting Name="PortaOrigem" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5890</Value>
+    </Setting>
+    <Setting Name="PortaDestino" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5890</Value>
+    </Setting>
+    <Setting Name="DBOrigem" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DES_NESTRIS</Value>
+    </Setting>
+    <Setting Name="DBDestino" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SBX_NESTRIS</Value>
+    </Setting>
+    <Setting Name="Diretorio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\NEST\BKP\DataBase\Scripts\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
